@@ -1,5 +1,5 @@
 	Online supplementary materials and reproducible R code repository
-# Interpretable and Explainable Machine Learning Models to Support Clinical Decision Making in Oncology.
+# On the importance of Interpretable  Machine Learning Predictions to Inform Clinical Decision Making in Oncology
 
 Table of contents
 =================
